@@ -1,0 +1,48 @@
+node_modules
+dist
+../../../../.CFUserTextEncoding
+../../../../.DS_Store
+../../../../.RData
+../../../../.Rhistory
+../../../../.bash_history
+../../../../.cache/
+../../../../.config/
+../../../../.degit/
+../../../../.gitconfig
+../../../../.idlerc/
+../../../../.lesshst
+../../../../.lldb/
+../../../../.local/
+../../../../.npm/
+../../../../.python_history
+../../../../.redhat/
+../../../../.ssh/
+../../../../.viminfo
+../../../../.vscode/
+../../../../.zprofile
+../../../../.zprofile.macports-saved_2023-05-07_at_10:21:36
+../../../../.zprofile.pysave
+../../../../.zsh_history
+../../../../.zsh_sessions/
+../../../../.zshrc
+../../../../Applications/
+../../../../Desktop/
+../../../.DS_Store
+../../../.localized
+../../../.vscode/
+../../../Annette Tran_Transcript_Fall2023.jpg
+../../../Zoom/
+../../.DS_Store
+../../../csc410/
+../../../prev quarters/
+../../../virtuosos website/
+../../../winter quarter 24/
+../../../../Downloads/
+../../../../Library/
+../../../../Movies/
+../../../../Music/
+../../../../Pictures/
+../../../../Public/
+../../../../oracleInterview.py
+../../../../snapScratchPad.py
+../../../../test1/
